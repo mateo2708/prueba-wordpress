@@ -1,15 +1,18 @@
 {
-  "main.css": "/wp-content/themes/destinopacifico/static/css/main.52cf9ae2.chunk.css",
-  "main.js": "/wp-content/themes/destinopacifico/static/js/main.d5666b83.chunk.js",
-  "main.js.map": "/wp-content/themes/destinopacifico/static/js/main.d5666b83.chunk.js.map",
+  "main.css": "/wp-content/themes/destinopacifico/static/css/main.03722d9b.chunk.css",
+  "main.js": "/wp-content/themes/destinopacifico/static/js/main.f7715bba.chunk.js",
+  "main.js.map": "/wp-content/themes/destinopacifico/static/js/main.f7715bba.chunk.js.map",
   "runtime~main.js": "/wp-content/themes/destinopacifico/static/js/runtime~main.02d177c6.js",
   "runtime~main.js.map": "/wp-content/themes/destinopacifico/static/js/runtime~main.02d177c6.js.map",
-  "static/js/2.29043002.chunk.js": "/wp-content/themes/destinopacifico/static/js/2.29043002.chunk.js",
-  "static/js/2.29043002.chunk.js.map": "/wp-content/themes/destinopacifico/static/js/2.29043002.chunk.js.map",
+  "static/css/2.40cc80ff.chunk.css": "/wp-content/themes/destinopacifico/static/css/2.40cc80ff.chunk.css",
+  "static/js/2.0482cfe5.chunk.js": "/wp-content/themes/destinopacifico/static/js/2.0482cfe5.chunk.js",
+  "static/js/2.0482cfe5.chunk.js.map": "/wp-content/themes/destinopacifico/static/js/2.0482cfe5.chunk.js.map",
   "index.php": "/wp-content/themes/destinopacifico/index.php",
-  "precache-manifest.5dc078cd50b4590d73e91107d70e7f78.js": "/wp-content/themes/destinopacifico/precache-manifest.5dc078cd50b4590d73e91107d70e7f78.js",
+  "precache-manifest.28c237ff1f6ef6dbbabb186485f0e52c.js": "/wp-content/themes/destinopacifico/precache-manifest.28c237ff1f6ef6dbbabb186485f0e52c.js",
   "service-worker.js": "/wp-content/themes/destinopacifico/service-worker.js",
-  "static/css/main.52cf9ae2.chunk.css.map": "/wp-content/themes/destinopacifico/static/css/main.52cf9ae2.chunk.css.map",
+  "static/css/2.40cc80ff.chunk.css.map": "/wp-content/themes/destinopacifico/static/css/2.40cc80ff.chunk.css.map",
+  "static/css/main.03722d9b.chunk.css.map": "/wp-content/themes/destinopacifico/static/css/main.03722d9b.chunk.css.map",
   "static/media/facebook-app-symbol.8894c170.svg": "/wp-content/themes/destinopacifico/static/media/facebook-app-symbol.8894c170.svg",
-  "static/media/instagram-logo.58fec832.svg": "/wp-content/themes/destinopacifico/static/media/instagram-logo.58fec832.svg"
+  "static/media/instagram-logo.58fec832.svg": "/wp-content/themes/destinopacifico/static/media/instagram-logo.58fec832.svg",
+  "static/media/logo.png": "/wp-content/themes/destinopacifico/static/media/logo.0c01354e.png"
 }

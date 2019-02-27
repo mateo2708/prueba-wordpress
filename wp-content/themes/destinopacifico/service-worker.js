@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wp-content/themes/destinopacifico/precache-manifest.5dc078cd50b4590d73e91107d70e7f78.js"
+  "/wp-content/themes/destinopacifico/precache-manifest.28c237ff1f6ef6dbbabb186485f0e52c.js"
 );
 
 workbox.clientsClaim();
